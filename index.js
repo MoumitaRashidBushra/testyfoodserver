@@ -1,14 +1,18 @@
 const express = require('express');
 const app = express();
 const port = process.env.PORT || 5000;
-//const cors = require('cors');
-//const categories = require('./Data/categories.json');
+const cors = require('cors');
+const allChef = require('./Data/chef.json');
 //const news = require('./Data/news.json');
 
-//app.use(cors())
+app.use(cors())
 
 app.get('/', (req, res) => {
     res.send('Testy food is Running')
+})
+
+app.get('/allChef', (req, res) => {
+    res.send(allChef)
 })
 
 
