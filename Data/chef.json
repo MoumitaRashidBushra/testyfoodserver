@@ -1,0 +1,260 @@
+[
+    {
+        "id": 1,
+        "name": "Sanjeev Kapoor",
+        "picture": "https://example.com/sanjeev-kapoor.jpg",
+        "years_of_experience": 35,
+        "num_recipes": 2000,
+        "bio": "Sanjeev Kapoor is a renowned Indian chef, restaurateur, and television personality. He is widely known for his expertise in Indian cuisine and has authored several cookbooks. With over 35 years of experience in the culinary industry, he is a leading figure in the Indian food industry.",
+        "recipes": [
+            {
+                "name": "Butter Chicken",
+                "ingredients": [
+                    "Chicken",
+                    "Tomatoes",
+                    "Onions",
+                    "Butter",
+                    "Cream"
+                ],
+                "cooking_method": "Marinate chicken in a mixture of yogurt and spices, then cook in a tomato and cream-based sauce."
+            },
+            {
+                "name": "Palak Paneer",
+                "ingredients": [
+                    "Spinach",
+                    "Paneer",
+                    "Onions",
+                    "Tomatoes",
+                    "Ginger"
+                ],
+                "cooking_method": "Cook spinach and spices, then add paneer and cook until heated through."
+            },
+            {
+                "name": "Chole Bhature",
+                "ingredients": [
+                    "Chickpeas",
+                    "Onions",
+                    "Tomatoes",
+                    "Ginger",
+                    "Garlic"
+                ],
+                "cooking_method": "Cook chickpeas with spices and tomato sauce, then serve with fried bread (bhature)."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Vikas Khanna",
+        "picture": "https://example.com/vikas-khanna.jpg",
+        "years_of_experience": 20,
+        "num_recipes": 500,
+        "bio": "Vikas Khanna is a Michelin-starred Indian chef, restaurateur, cookbook author, and filmmaker. He is widely known for his modern take on traditional Indian cuisine and has won numerous awards for his work. With over 20 years of experience in the culinary industry, he is a leading figure in the global food scene.",
+        "recipes": [
+            {
+                "name": "Tandoori Chicken",
+                "ingredients": [
+                    "Chicken",
+                    "Yogurt",
+                    "Ginger",
+                    "Garlic",
+                    "Lemon Juice"
+                ],
+                "cooking_method": "Marinate chicken in a mixture of yogurt and spices, then cook in a tandoor oven or grill."
+            },
+            {
+                "name": "Paneer Tikka Masala",
+                "ingredients": [
+                    "Paneer",
+                    "Tomatoes",
+                    "Onions",
+                    "Ginger",
+                    "Garlic"
+                ],
+                "cooking_method": "Marinate paneer in a mixture of yogurt and spices, then cook in a tomato and cream-based sauce."
+            },
+            {
+                "name": "Dal Makhani",
+                "ingredients": [
+                    "Black Lentils",
+                    "Kidney Beans",
+                    "Onions",
+                    "Tomatoes",
+                    "Butter"
+                ],
+                "cooking_method": "Cook lentils and kidney beans with spices and tomato sauce, then add butter and cream."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "picture": "https://example.com/chef1.jpg",
+        "name": "Ovijeev Kapoor",
+        "years_of_experience": 40,
+        "num_recipes": 500,
+        "bio": "Ovijeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He has hosted several popular cooking shows on TV and authored many cookbooks. He is best known for his simple and easy-to-follow recipes that combine traditional Indian flavors with modern cooking techniques.",
+        "recipes": [
+            {
+                "name": "Pav Bhaji",
+                "ingredients": [
+                    "potatoes",
+                    "tomatoes",
+                    "onions",
+                    "butter",
+                    "pav buns"
+                ],
+                "cooking_method": "Boil potatoes until soft, then mash them. In a separate pan, sauté onions and tomatoes until they break down. Add spices and the mashed potatoes, and cook until well combined. Serve hot with buttered and toasted pav buns, chopped onions, and lemon wedges."
+            },
+            {
+                "name": "Aloo Tikki",
+                "ingredients": [
+                    "potatoes",
+                    "breadcrumbs",
+                    "spices",
+                    "oil",
+                    "chutney"
+                ],
+                "cooking_method": "Boil potatoes until soft, then mash them. Mix in spices and breadcrumbs, and form into patties. Heat oil in a pan and fry the patties until golden and crispy on both sides. Serve hot with your favorite chutney and sliced onions."
+            },
+            {
+                "name": "Chaat",
+                "ingredients": [
+                    "potatoes",
+                    "chickpeas",
+                    "yogurt",
+                    "chutneys",
+                    "sev"
+                ],
+                "cooking_method": "Boil potatoes until soft, then dice them. Add chickpeas, spices, and your favorite chutneys to taste. Top with a dollop of yogurt and a sprinkle of sev. Serve cold as a refreshing and tangy snack."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "picture": "https://example.com/chef1.jpg",
+        "name": "Ranveer Brar",
+        "years_of_experience": 25,
+        "num_recipes": 200,
+        "bio": "Ranveer Brar is a popular Indian celebrity chef, restaurateur, and television personality. He has hosted several cooking shows on TV and authored many cookbooks. He is known for his innovative and contemporary approach to Indian cuisine.",
+        "recipes": [
+            {
+                "name": "Paneer Kathi Roll",
+                "ingredients": [
+                    "paneer",
+                    "onion",
+                    "capsicum",
+                    "spices",
+                    "flour tortilla"
+                ],
+                "cooking_method": "Cut paneer, onion, and capsicum into thin strips. Sauté in a pan with spices until tender. Warm the flour tortilla in a separate pan. Place the paneer mixture in the center of the tortilla and roll tightly. Serve hot with mint chutney and sliced onions."
+            },
+            {
+                "name": "Aloo Tikki Burger",
+                "ingredients": [
+                    "potatoes",
+                    "bread crumbs",
+                    "spices",
+                    "lettuce",
+                    "burger bun"
+                ],
+                "cooking_method": "Boil potatoes, then mash them with spices and bread crumbs. Form into patties and fry in a pan until crispy on both sides. Toast the burger bun and assemble the burger with the aloo tikki, lettuce, and your favorite condiments."
+            },
+            {
+                "name": "Chilli Chicken",
+                "ingredients": [
+                    "chicken",
+                    "corn flour",
+                    "soy sauce",
+                    "chilli sauce",
+                    "garlic"
+                ],
+                "cooking_method": "Cut chicken into bite-sized pieces and coat with corn flour. Fry in hot oil until crispy and golden. In a separate pan, sauté garlic until fragrant. Add soy sauce and chilli sauce, then stir in the cooked chicken. Cook for a few more minutes until the sauce thickens. Serve hot with fried rice or noodles."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "picture": "https://example.com/chef7.jpg",
+        "name": "Anjum Anand",
+        "years_of_experience": 25,
+        "num_recipes": 300,
+        "bio": "Anjum Anand is a British-Indian author, chef, and TV personality. She is known for her healthy and light Indian recipes that use fresh and locally sourced ingredients. She has written several cookbooks and hosted popular cooking shows on TV.",
+        "recipes": [
+            {
+                "name": "Tandoori Chicken",
+                "ingredients": [
+                    "chicken",
+                    "yogurt",
+                    "ginger-garlic paste",
+                    "spices",
+                    "lemon juice"
+                ],
+                "cooking_method": "Marinate chicken pieces in a mixture of yogurt, ginger-garlic paste, spices, and lemon juice for at least 2 hours. Roast in a preheated oven or on a grill until charred and cooked through. Serve hot with mint chutney and sliced onions."
+            },
+            {
+                "name": "Chicken Kebabs",
+                "ingredients": [
+                    "chicken",
+                    "yogurt",
+                    "spices",
+                    "onions",
+                    "bell peppers"
+                ],
+                "cooking_method": "Marinate chicken cubes in a mixture of yogurt and spices for at least 1 hour. Skewer the chicken, onions, and bell peppers and grill or roast in a preheated oven until cooked through. Serve hot with mint chutney and lemon wedges."
+            },
+            {
+                "name": "Paneer Tikka",
+                "ingredients": [
+                    "paneer",
+                    "yogurt",
+                    "spices",
+                    "bell peppers",
+                    "onions"
+                ],
+                "cooking_method": "Marinate paneer cubes in a mixture of yogurt and spices for at least 1 hour. Skewer the paneer, onions, and bell peppers and grill or roast in a preheated oven until charred and cooked through. Serve hot with mint chutney and lemon wedges."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "picture": "https://example.com/chef14.jpg",
+        "name": "Harpal Singh Sokhi",
+        "years_of_experience": 20,
+        "num_recipes": 500,
+        "bio": "Harpal Singh Sokhi is a popular Indian chef and TV personality known for his energetic personality and his unique take on Indian cuisine. He owns several restaurants in India and abroad and has hosted numerous cooking shows on TV.",
+        "recipes": [
+            {
+                "name": "Chhole Bhature",
+                "ingredients": [
+                    "chickpeas",
+                    "spices",
+                    "flour",
+                    "yogurt",
+                    "soda"
+                ],
+                "cooking_method": "Soak chickpeas overnight and pressure cook with spices. Make bhature (deep-fried bread) with flour, yogurt, and soda. Serve hot with chhole (chickpeas), sliced onions, and lemon wedges."
+            },
+            {
+                "name": "Chaat Papdi",
+                "ingredients": [
+                    "flour",
+                    "potatoes",
+                    "chickpeas",
+                    "yogurt",
+                    "tamarind chutney"
+                ],
+                "cooking_method": "Make crispy papdis (crackers) with flour and fry. Arrange on a plate with boiled potatoes, boiled chickpeas, and onions. Top with yogurt, tamarind chutney, and green chutney. Garnish with sev (crispy noodles), coriander leaves, and spices."
+            },
+            {
+                "name": "Dahi Bhalla",
+                "ingredients": [
+                    "urad dal",
+                    "yogurt",
+                    "spices",
+                    "tamarind chutney",
+                    "green chutney"
+                ],
+                "cooking_method": "Soak urad dal and grind into a smooth batter. Add spices and shape into balls. Deep fry and soak in water. Squeeze out water and place in a bowl. Top with beaten yogurt, tamarind chutney, and green chutney. Garnish with spices and coriander leaves."
+            }
+        ]
+    }
+]
