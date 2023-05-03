@@ -14,6 +14,11 @@ app.get('/', (req, res) => {
 app.get('/allChef', (req, res) => {
     res.send(allChef)
 })
+app.get('/allChef/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedChef = allChef.find(ni => ni.id == id)
+    res.send(selectedChef)
+})
 
 
 

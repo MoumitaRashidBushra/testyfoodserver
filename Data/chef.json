@@ -2,12 +2,13 @@
     {
         "id": 1,
         "name": "Sanjeev Kapoor",
-        "picture": "https://example.com/sanjeev-kapoor.jpg",
+        "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683099697~exp=1683100297~hmac=589ae232dd0e6e46acae86f277994b9bcd2a2b44ea7f17d8ca9620e814fad376",
         "years_of_experience": 35,
         "num_recipes": 2000,
         "bio": "Sanjeev Kapoor is a renowned Indian chef, restaurateur, and television personality. He is widely known for his expertise in Indian cuisine and has authored several cookbooks. With over 35 years of experience in the culinary industry, he is a leading figure in the Indian food industry.",
         "recipes": [
             {
+                "picture": "https://img.freepik.com/free-photo/side-close-up-view-chicken-herbs-plate-chicken-legs-with-lemon-herbs-dark-background_140725-110402.jpg?w=740&t=st=1683101698~exp=1683102298~hmac=a0812b4552150205d936f3c60534b4a6eb8ad66a0c1f0603f6b051249b33e07d",
                 "name": "Butter Chicken",
                 "ingredients": [
                     "Chicken",
@@ -19,6 +20,7 @@
                 "cooking_method": "Marinate chicken in a mixture of yogurt and spices, then cook in a tomato and cream-based sauce."
             },
             {
+                "picture": "https://img.freepik.com/free-photo/top-view-pakistani-food-arrangement_23-2148825109.jpg?w=740&t=st=1683101608~exp=1683102208~hmac=93f16658bb7ac0b676783c14babc3ad3367e2cc1dd86c694655444952040e6f0",
                 "name": "Palak Paneer",
                 "ingredients": [
                     "Spinach",
@@ -30,6 +32,7 @@
                 "cooking_method": "Cook spinach and spices, then add paneer and cook until heated through."
             },
             {
+                "picture": "https://img.freepik.com/free-photo/ong-chili-paste-mortar-decorated-with-beautiful-side-dishes_1150-24478.jpg?w=740&t=st=1683101481~exp=1683102081~hmac=7f3afa3be01ba4fc6215d805906b9cf6b8ec69b3a3a39d91de1bed964cc4eac1",
                 "name": "Chole Bhature",
                 "ingredients": [
                     "Chickpeas",
@@ -45,12 +48,13 @@
     {
         "id": 2,
         "name": "Vikas Khanna",
-        "picture": "https://example.com/vikas-khanna.jpg",
+        "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683099735~exp=1683100335~hmac=55b191964f9d2f9f21c3f86a93eda470055cda5dad4094d7a1400f9a0eb18972",
         "years_of_experience": 20,
         "num_recipes": 500,
         "bio": "Vikas Khanna is a Michelin-starred Indian chef, restaurateur, cookbook author, and filmmaker. He is widely known for his modern take on traditional Indian cuisine and has won numerous awards for his work. With over 20 years of experience in the culinary industry, he is a leading figure in the global food scene.",
         "recipes": [
             {
+                "picture": "https://img.freepik.com/free-photo/closeup-shot-deliciously-prepared-chicken-served-with-onions-chili-sauce_181624-61705.jpg?w=740&t=st=1683101215~exp=1683101815~hmac=a85f85a2dc9ba8bff8f467b890de2ee9d45779362354fc606c6e21b3d937088c",
                 "name": "Tandoori Chicken",
                 "ingredients": [
                     "Chicken",
@@ -62,6 +66,7 @@
                 "cooking_method": "Marinate chicken in a mixture of yogurt and spices, then cook in a tandoor oven or grill."
             },
             {
+                "picture": "https://img.freepik.com/free-photo/vegan-curry-with-tofu-vegetables_661915-287.jpg?w=740&t=st=1683101164~exp=1683101764~hmac=10713a6846681f95e6beb18852dbebfddc805bed1a2f3b4cbba957331c04110c",
                 "name": "Paneer Tikka Masala",
                 "ingredients": [
                     "Paneer",
@@ -73,6 +78,7 @@
                 "cooking_method": "Marinate paneer in a mixture of yogurt and spices, then cook in a tomato and cream-based sauce."
             },
             {
+                "picture": "https://img.freepik.com/free-photo/side-view-chachochbili-stewed-chicken-with-garlic-onion-seasoning-greens-clay-dish_141793-4804.jpg?w=740&t=st=1683101063~exp=1683101663~hmac=181d04bb67a76e3823b85436530b91f68390b505d7416ac79651be66449c6b54",
                 "name": "Dal Makhani",
                 "ingredients": [
                     "Black Lentils",
@@ -87,13 +93,14 @@
     },
     {
         "id": 3,
-        "picture": "https://example.com/chef1.jpg",
+        "picture": "https://img.freepik.com/free-photo/satisfied-professional-male-chef-cook-white-uniform-cook-hat-standing-with-arms-crossed-looking-confident-green-background_141793-20656.jpg?w=740&t=st=1683099895~exp=1683100495~hmac=9bdb0e8098f212b0b8ec5ca86f3dea5079c6ccd572c406f361fc2851a870476a",
         "name": "Ovijeev Kapoor",
         "years_of_experience": 40,
         "num_recipes": 500,
         "bio": "Ovijeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He has hosted several popular cooking shows on TV and authored many cookbooks. He is best known for his simple and easy-to-follow recipes that combine traditional Indian flavors with modern cooking techniques.",
         "recipes": [
             {
+                "picture": "https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?w=740&t=st=1683096955~exp=1683097555~hmac=8c2850a0521e6ce53ec1c847a3ecad463803463722225406965af917e73cff45",
                 "name": "Pav Bhaji",
                 "ingredients": [
                     "potatoes",
@@ -105,6 +112,7 @@
                 "cooking_method": "Boil potatoes until soft, then mash them. In a separate pan, sauté onions and tomatoes until they break down. Add spices and the mashed potatoes, and cook until well combined. Serve hot with buttered and toasted pav buns, chopped onions, and lemon wedges."
             },
             {
+                "picture": "https://img.freepik.com/free-photo/baked-potato-with-herbs-sauce-vegan-food-healthy-meal_2829-6951.jpg?w=740&t=st=1683097767~exp=1683098367~hmac=6a43f6495b0af7477587cd0f3c9087f7c3ccb8a4cef83543418924dd548b3c75",
                 "name": "Aloo Tikki",
                 "ingredients": [
                     "potatoes",
@@ -116,6 +124,7 @@
                 "cooking_method": "Boil potatoes until soft, then mash them. Mix in spices and breadcrumbs, and form into patties. Heat oil in a pan and fry the patties until golden and crispy on both sides. Serve hot with your favorite chutney and sliced onions."
             },
             {
+                "picture": "https://img.freepik.com/free-photo/lentil-salad-with-peppersonion-carrot-bowl-black-slate-background_123827-21265.jpg?w=740&t=st=1683097917~exp=1683098517~hmac=54dab928b85846a2b688d4da824f53ace34c0e4ac89a597415963ed641769a03",
                 "name": "Chaat",
                 "ingredients": [
                     "potatoes",
@@ -130,13 +139,14 @@
     },
     {
         "id": 4,
-        "picture": "https://example.com/chef1.jpg",
+        "picture": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-stretching-out-plate-towards-isolated-pink-wall-with-copy-space_141793-101308.jpg?w=740&t=st=1683099968~exp=1683100568~hmac=63b412a2c1107a66582e45e7bc26f3ce9525f2a8e0295dcce22eb6f6d74701d9",
         "name": "Ranveer Brar",
         "years_of_experience": 25,
         "num_recipes": 200,
         "bio": "Ranveer Brar is a popular Indian celebrity chef, restaurateur, and television personality. He has hosted several cooking shows on TV and authored many cookbooks. He is known for his innovative and contemporary approach to Indian cuisine.",
         "recipes": [
             {
+                "picture": "https://img.freepik.com/free-photo/side-view-chicken-roll-grilled-chicken-lettuce-cucumber-tomato-mayo-pita_141793-4849.jpg?w=740&t=st=1683100926~exp=1683101526~hmac=9c3b6066cb70f3267c89a80aea6748fef2d4f97251c9653e5d5580950c565a8d",
                 "name": "Paneer Kathi Roll",
                 "ingredients": [
                     "paneer",
@@ -148,6 +158,7 @@
                 "cooking_method": "Cut paneer, onion, and capsicum into thin strips. Sauté in a pan with spices until tender. Warm the flour tortilla in a separate pan. Place the paneer mixture in the center of the tortilla and roll tightly. Serve hot with mint chutney and sliced onions."
             },
             {
+                "picture": "https://img.freepik.com/free-photo/sandwich-with-chicken-burger-tomatoes-lettuce_2829-16584.jpg?w=740&t=st=1683100860~exp=1683101460~hmac=1eab70bc02da16fbe38af09a7290bd2a6318a71c6ad3ba5b5e9ddef3761ef935",
                 "name": "Aloo Tikki Burger",
                 "ingredients": [
                     "potatoes",
@@ -159,6 +170,7 @@
                 "cooking_method": "Boil potatoes, then mash them with spices and bread crumbs. Form into patties and fry in a pan until crispy on both sides. Toast the burger bun and assemble the burger with the aloo tikki, lettuce, and your favorite condiments."
             },
             {
+                "picture": "https://img.freepik.com/free-photo/fast-food-restaurant-table_7939-2866.jpg?w=740&t=st=1683100774~exp=1683101374~hmac=d2ee27ac0a22a8b35cb188b2f51f691682d146dabed8e224887dfa59f2d9a748",
                 "name": "Chilli Chicken",
                 "ingredients": [
                     "chicken",
@@ -173,13 +185,14 @@
     },
     {
         "id": 5,
-        "picture": "https://example.com/chef7.jpg",
+        "picture": "https://img.freepik.com/free-photo/young-smiling-caucasian-cook-girl-chef-uniform-keeps-fist-up-isolated-orange-wall_141793-33509.jpg?w=740&t=st=1683099802~exp=1683100402~hmac=ae0c203d5c200f155492d3976fc4f5ad6f67ef4e09e7d6b1772b9aa2e78f5124",
         "name": "Anjum Anand",
         "years_of_experience": 25,
         "num_recipes": 300,
         "bio": "Anjum Anand is a British-Indian author, chef, and TV personality. She is known for her healthy and light Indian recipes that use fresh and locally sourced ingredients. She has written several cookbooks and hosted popular cooking shows on TV.",
         "recipes": [
             {
+                "picture": "https://img.freepik.com/free-photo/side-view-baked-chicken-with-cucumber-lemon-seasoning-bread-table_141793-4757.jpg?w=740&t=st=1683100675~exp=1683101275~hmac=73e8cfccc8a58c5b3a25d972f3d086139a5969626bf40424cce0ad766197b6ad",
                 "name": "Tandoori Chicken",
                 "ingredients": [
                     "chicken",
@@ -191,6 +204,7 @@
                 "cooking_method": "Marinate chicken pieces in a mixture of yogurt, ginger-garlic paste, spices, and lemon juice for at least 2 hours. Roast in a preheated oven or on a grill until charred and cooked through. Serve hot with mint chutney and sliced onions."
             },
             {
+                "picture": "https://img.freepik.com/free-photo/bbq-with-toppings-sausages-dish-open-air_1268-16584.jpg?w=740&t=st=1683100577~exp=1683101177~hmac=af32027cb5a55ea378fa64a9021e8b2471e53fab558332f1fb1b2a43566dade8",
                 "name": "Chicken Kebabs",
                 "ingredients": [
                     "chicken",
@@ -202,6 +216,7 @@
                 "cooking_method": "Marinate chicken cubes in a mixture of yogurt and spices for at least 1 hour. Skewer the chicken, onions, and bell peppers and grill or roast in a preheated oven until cooked through. Serve hot with mint chutney and lemon wedges."
             },
             {
+                "picture": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=740&t=st=1683100476~exp=1683101076~hmac=595d5e85cff15c2a13aedd88b7ff895e86007a5d5b130b5aec22780399c8253d",
                 "name": "Paneer Tikka",
                 "ingredients": [
                     "paneer",
@@ -216,13 +231,14 @@
     },
     {
         "id": 6,
-        "picture": "https://example.com/chef14.jpg",
-        "name": "Harpal Singh Sokhi",
+        "picture": "https://img.freepik.com/free-photo/smiling-young-male-chef-wearing-uniform-looking-camera-pointing-sides-isolated-brown-background_141793-133896.jpg?w=740&t=st=1683100103~exp=1683100703~hmac=2554f11e79d9a7d86f8e660404da5049afbbe5e91d27f337940ed937a2a21870",
+        "name": "Harpal Singh ",
         "years_of_experience": 20,
         "num_recipes": 500,
         "bio": "Harpal Singh Sokhi is a popular Indian chef and TV personality known for his energetic personality and his unique take on Indian cuisine. He owns several restaurants in India and abroad and has hosted numerous cooking shows on TV.",
         "recipes": [
             {
+                "picture": "https://img.freepik.com/free-photo/delicious-indian-dosa-composition_23-2149086051.jpg?w=740&t=st=1683100169~exp=1683100769~hmac=a6588073e57822269cd8b431078b4bcc83ba463f2cdeb3f5f28268a01c2763e9",
                 "name": "Chhole Bhature",
                 "ingredients": [
                     "chickpeas",
@@ -234,6 +250,7 @@
                 "cooking_method": "Soak chickpeas overnight and pressure cook with spices. Make bhature (deep-fried bread) with flour, yogurt, and soda. Serve hot with chhole (chickpeas), sliced onions, and lemon wedges."
             },
             {
+                "picture": "https://img.freepik.com/free-photo/front-view-shakh-plov-delicious-rice-meal-cooked-inside-round-dough-with-raisins-grey-space_140725-87468.jpg?w=740&t=st=1683100274~exp=1683100874~hmac=ff0c664ee379ad81346e93bf189336b8acd27c0d68e25791e3b7fac930485b10",
                 "name": "Chaat Papdi",
                 "ingredients": [
                     "flour",
@@ -245,6 +262,7 @@
                 "cooking_method": "Make crispy papdis (crackers) with flour and fry. Arrange on a plate with boiled potatoes, boiled chickpeas, and onions. Top with yogurt, tamarind chutney, and green chutney. Garnish with sev (crispy noodles), coriander leaves, and spices."
             },
             {
+                "picture": "https://img.freepik.com/free-photo/high-angle-tasty-pakistani-dish_23-2148825123.jpg?w=900&t=st=1683100419~exp=1683101019~hmac=386df48d631f659742ea3693f4b49a57dae99e60361db5a254758ab64e22e1dc",
                 "name": "Dahi Bhalla",
                 "ingredients": [
                     "urad dal",
